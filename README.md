@@ -70,7 +70,7 @@ The kitchen page is for the user to build a new recipe they want to try from scr
 <img width="1020" height="616" alt="image" src="https://github.com/user-attachments/assets/25d56c7d-92e4-465a-906b-a7c487b4afd5" />
 
 ### 9. Explore
-<img width="1018" height="619" alt="image" src="https://github.com/user-attachments/assets/5e00cbca-a6f7-4357-89cf-6ac9d6de947c" />
+<img width="914" height="557" alt="image" src="https://github.com/user-attachments/assets/af50d071-88d7-4883-802f-145716367bf0" />
 This page allows the user to view recipes from other users, they can add these recipes to 'My Favorites' or 'Try Later'. User can click on any recipe to view the full details as shown below:
 <img width="1015" height="614" alt="image" src="https://github.com/user-attachments/assets/4a6c1e23-a6c5-4278-9e6d-48b50e17c96d" />
 
